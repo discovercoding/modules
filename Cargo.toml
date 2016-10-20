@@ -1,0 +1,16 @@
+[package]
+name = "modules"
+version = "0.1.0"
+authors = ["JeremySorensen <jeremy.a.sorensen@gmail.com>"]
+
+[lib]
+name = "modules"
+path = "src/lib.rs"
+
+[[bin]]
+name = "modules"
+path = "src/main.rs"
+
+[dependencies]
+
+
